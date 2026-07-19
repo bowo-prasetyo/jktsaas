@@ -13,11 +13,30 @@ background:#f8fafc;
 
 }
 
+header {
 
+    background-image:
+        linear-gradient(
+            rgba(15,23,42,.80),
+            rgba(15,23,42,.80)
+        ),
+        url("../assets/hero-background.jpg");
+
+    background-size: cover;
+    background-position: center;
+}
 
 header {
 
-background:#0f172a;
+    background-image:
+        linear-gradient(
+            rgba(15,23,42,.80),
+            rgba(15,23,42,.80)
+        ),
+        url("../assets/header-background.jpg");
+
+    background-size: cover;
+    background-position: center;
 
 color:white;
 
@@ -119,15 +138,21 @@ flex:1;
 
 }
 
-
-
 footer {
 
 text-align:center;
 
 padding:30px;
 
-background:#0f172a;
+    background-image:
+        linear-gradient(
+            rgba(15,23,42,.85),
+            rgba(15,23,42,.85)
+        ),
+        url("../assets/footer-background.jpg");
+
+    background-size: cover;
+    background-position: center;
 
 color:white;
 
