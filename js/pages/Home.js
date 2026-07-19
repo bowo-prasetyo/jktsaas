@@ -3,8 +3,7 @@ export default {
 
 template:`
 
-<section class="hero">
-
+<section class="hero hero-background">
 
 <h2>
 Bangun Bisnis Lebih Cerdas
